@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "729476912467",
+    "firebase_url": "https://blood-95de8.firebaseio.com",
+    "project_id": "blood-95de8",
+    "storage_bucket": "blood-95de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729476912467:android:92b9fc53f84a3c69",
+        "android_client_info": {
+          "package_name": "com.example.anis.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729476912467-cg3oefh59poaobj3jl74lc0ob0g9opb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anis.blood",
+            "certificate_hash": "d5498d98a30d020e814b93112b14d98d0460dd08"
+          }
+        },
+        {
+          "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT04FYfdr0LUavGW1yZFheDB6uRn5Oimk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729476912467:android:bbc592727000629d",
+        "android_client_info": {
+          "package_name": "com.example.media.smsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729476912467-bp9f3gih112kh4p1j2bsjhk4i4kkbh9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.media.smsserver",
+            "certificate_hash": "4d7ea2d99b5b6375847b1a8db3787fd2ad48a5be"
+          }
+        },
+        {
+          "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT04FYfdr0LUavGW1yZFheDB6uRn5Oimk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729476912467:android:82afc7a1a42ce059",
+        "android_client_info": {
+          "package_name": "com.example.shafayat.smsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729476912467-dl46b1483tl3ibeil67nfob76pv6ll8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shafayat.smsserver",
+            "certificate_hash": "d5498d98a30d020e814b93112b14d98d0460dd08"
+          }
+        },
+        {
+          "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT04FYfdr0LUavGW1yZFheDB6uRn5Oimk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729476912467-9rhr2eid9kjo3827pguv4og9654vdafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
